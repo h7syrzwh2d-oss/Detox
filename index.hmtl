@@ -1,3 +1,22 @@
-<h1>detox</h1>.
-<p>Добро пожаловать</p>
-<button>Start</button>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>DETOX</title>
+</head>
+
+<body>
+
+    <h1>DETOX</h1>
+
+    <h2>Take back your time.</h2>
+
+    <p>Reduce screen time. Improve your focus.</p>
+
+    <button>START DETOX</button>
+
+    <h3>Today's progress</h3>
+
+    <p>0 minutes completed</p>
+
+</body>
+</html>
